@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^Accueil?$ index.php
+RewriteRule Qui-Sommes-Nous?$ about-us.php
+RewriteRule Contact?$ contact-us.php
+RewriteRule Portfolio?$ portfolio.php
+
