@@ -2302,7 +2302,7 @@ img.cover{position: absolute;top: 0px;left: 0px;width: auto;height: 100%;max-wid
 }
 @media (max-width: 767px) {
 	.template-default .cms-index-index .header{position:static}
-	.template-default .header-container{height: 165px}
+	.template-default .header-container{height: 80px}
 	.template-default .custom-menu{display:none}
 	.template-default .no-display{display:block!important}
 	.template-default .header-logo{padding-bottom:10px;float:none;width:100%;text-align:center}

@@ -12,6 +12,10 @@
     produits et articles publicitaires, cadeaux d’entreprises, sacs ou accessoires de petite maroquinerie.">
     <meta name="keywords" content="">
     <meta name="author" content="AbDouLlaTiF">
+    <script>
+        document.getElementById("force_width").width = 100%;
+        console.log('hello force');
+    </script>
 </head>
 <body>
 <div class="wrapper">
@@ -296,8 +300,10 @@
 
 			<div class="block-static block_testimonials">
 				<div class="testimonials-about">
+
 					<div class="container">
-						<ul class="bx-testimonial">
+
+                        <ul class="bx-testimonial">
 							<li>
 								<div class="testimonial_text">
 									<p class="fa-over"><i class="fa fa-quote-right"></i></p>
