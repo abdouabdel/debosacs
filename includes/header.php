@@ -1,16 +1,16 @@
 <div class="header-container header-color color">
-    <div class="header_full">
+    <div style="height: 125px" class="header_full">
         <div class="header">
             <div class="header-logo show-992">
-                <a href="Accueil" class="logo"> <img class="img-responsive" src="assets/images/logo.png" alt="" /></a>
+                <a href="Accueil" class="logo"> <img class="img-responsive" src="../assets/images/logo1.png" alt="" /></a>
             </div><!--- .header-logo -->
 
 
         </div><!--- .header -->
     </div><!--- .header_full -->
 </div><!--- .header-container -->
-<div class="header-container header-color color">
-    <div class="header_full">
+<div class="header-container header-color color" style="margin-top: 44px;">
+    <div style="background-color: rgba(217, 218, 220, 0.49);" class="header_full">
         <div class="header">
 
             <div class="header-bottom">
@@ -20,11 +20,11 @@
                             <div style="margin-left: 13%;" class="header-wrapper-bottom">
                                 <div class="custom-menu col-lg-12">
                                     <div style="margin-top: -84px;margin-left: 27%;position: absolute;" class="header-logo hidden-992">
-                                        <a href="Accueil" class="logo"> <img class="img-responsive" src="assets/images/logo.png" alt="" /></a>
+                                        <a href="Accueil" class="logo"> <img style="margin-top: -57px;" class="img-responsive" src="../assets/images/logo1.png" alt="" /></a>
                                     </div><!--- .header-logo -->
                                     <div style="width: 105%" class="magicmenu clearfix">
                                         <ul class="nav-desktop sticker">
-                                            <li class="level0 logo display"><a class="level-top" href="Accueil"><img alt="logo" src="assets/images/logo.png"></a></li>
+                                            <li class="level0 logo display"><a class="level-top" href="Accueil"><img alt="logo" src="../assets/images/logo.png"></a></li>
 
                                             <li class='level0' >
                                                 <a class="level-top" href="Accueil">
@@ -47,8 +47,8 @@
                                                                 <ul id="force_width" class="mage-column cat-mega" style="width: 100% !important">
                                                                     <li class="children">
                                                                         <ul>
-                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="#">Packaging  sur tout support</a></li>
-                                                                            <li class="nav"><a href="#">Coffrets</a></li>
+                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="Packaging_sur_tout_support">Packaging  sur tout support</a></li>
+                                                                            <li class="nav"><a href="Coffrets">Coffrets</a></li>
                                                                             <li class="nav"><a href="#">boites </a></li>
                                                                             <li class="nav"><a href="#">sacs d’emballage<span class="cat_label New">New</span></a></li>
                                                                             <li class="nav"><a href="#">sacs création sur mesure </a></li>
@@ -58,7 +58,7 @@
                                                                     </li>
                                                                     <li class="children">
                                                                         <ul>
-                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="#">Maroquinerie &
+                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="Maroquinerie_petite_maroquinerie">Maroquinerie &
                                                                                     <br>Petites maroquinerie</a></li>
                                                                             <li class="nav"><a href="#">Cartables </a></li>
                                                                             <li class="nav"><a href="#">sac à dos</a></li>
@@ -70,7 +70,7 @@
                                                                     </li>
                                                                     <li class="children">
                                                                         <ul>
-                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="#">Cadeaux d’entreprises
+                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="Cadeaux_entreprise">Cadeaux d’entreprises
                                                                                     <br>personnalisables</a></li>
                                                                             <li class="nav"><a href="#">Coffrets artisanales </a></li>
                                                                             <li class="nav"><a href="#">Coffrets maroquinerie <span class="cat_label Hot">Hot</span></a></li>
@@ -81,7 +81,7 @@
                                                                     </li>
                                                                     <li class="children" style="clear: none !important">
                                                                         <ul>
-                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="#">Gifts publicitaires
+                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="Gifts_publicitaires">Gifts publicitaires
                                                                                 </a></li>
                                                                             <li class="nav"><a href="#">stylos </a></li>
                                                                             <li class="nav"><a href="#">portes clés </a></li>
@@ -94,7 +94,7 @@
                                                                     </li>
                                                                     <li class="children">
                                                                         <ul>
-                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="#">Textile </a></li>
+                                                                            <li class="level-3 first submenu-style"><a style="font-size: 14px;font-weight: 500;line-height: 17px;" href="Textile">Textile </a></li>
                                                                             <li class="nav"><a href="#">Tee-shirt</a></li>
                                                                             <li class="nav"><a href="#">polos </a></li>
                                                                             <li class="nav"><a href="#">casquettes</a></li>
@@ -131,93 +131,69 @@
                                         <h3 class="mobi-title">Menu</h3>
                                         <ul>
                                             <li class="level-top">
-                                                <a class="level-top" href="Qui-Sommes-Nous"><span>Qui sommes nous </span><span class="boder-menu"></span></a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="list.html">Dresses <span class="cat_label Hot">Hot</span></a>
-                                                        <ul>
-                                                            <li class="nav "><a href="#">Cocktail </a></li>
-                                                            <li class="nav "><a href="#">Day </a></li>
-                                                            <li class="nav "><a href="#">Evening </a></li>
-                                                            <li class="nav "><a href="#">Sports </a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
+                                                <a class="level-top" href="Accueil">
+                                                    <span>Accueil </span><span class="boder-menu"></span>
+                                                </a>
                                             </li>
                                             <li class="level-top">
-                                                <a class="level-top" href="#"><span>Produits <span class="cat_label New">New</span></span><span class="boder-menu"></span></a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">New Arrivals <span class="cat_label New">New</span></a>
-                                                        <ul>
-                                                            <li class="nav "><a href="#">Shirts & Tops </a></li>
-                                                            <li class="nav "><a href="#">Outerwear </a></li>
-                                                            <li class="nav "><a href="#">Sweaters <span class="cat_label New">New</span></a></li>
-                                                            <li class="nav "><a href="#">Shoes </a></li>
-                                                            <li class="nav "><a href="#">Bottoms </a></li>
-                                                            <li class="nav "><a href="#">Shirts </a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Outerwear </a>
-                                                        <ul>
-                                                            <li class="nav "><a href="#">Vests </a></li>
-                                                            <li class="nav "><a href="#">Jackets </a></li>
-                                                            <li class="nav "><a href="#">Vests New Bags </a></li>
-                                                            <li class="nav "><a href="#">Coats </a></li>
-                                                            <li class="nav "><a href="#">Blazers </a></li>
-                                                            <li class="nav "><a href="#">Sweaters </a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Accessories </a>
-                                                        <ul>
-                                                            <li class="nav "><a href="#">Cosmetics </a></li>
-                                                            <li class="nav "><a href="#">Tights & Socks <span class="cat_label Hot">Hot</span></a></li>
-                                                            <li class="nav "><a href="#">Leather </a></li>
-                                                            <li class="nav "><a href="#">Undergarments </a></li>
-                                                            <li class="nav "><a href="#">Sunglasses </a></li>
-                                                            <li class="nav "><a href="#">Watches </a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
+                                                <a class="level-top" href="Qui-Sommes-Nous"><span>Qui sommes nous </span><span class="boder-menu"></span></a>
                                             </li>
                                             <li class="level-top">
                                                 <a class="level-top" href="#">
-                                                    <span>Maroquinerie </span><span class="boder-menu"></span>
+                                                    <span>Produits <span class="cat_label New">Nouveau</span></span>
+                                                    <span class="boder-menu"></span>
                                                 </a>
                                                 <ul>
                                                     <li>
-                                                        <a href="#"> Women’s Clothing </a>
-                                                        <img class="img-responsive" alt="images" src="assets/images/supv1_01.jpg">
+                                                        <a href="#"> Packaging  sur tout support </a>
                                                         <ul>
-                                                            <li class="nav "><a href="#">Sports </a></li>
-                                                            <li class="nav "><a href="#">Jeans <span class="cat_label New">New</span></a></li>
-                                                            <li class="nav "><a href="#">Cocktail </a></li>
-                                                            <li class="nav "><a href="#">Day </a></li>
-                                                            <li class="nav "><a href="#">Evening </a></li>
+                                                            <li class="nav"><a href="Coffrets">Coffrets</a></li>
+                                                            <li class="nav"><a href="#">boites </a></li>
+                                                            <li class="nav"><a href="#">sacs d’emballage<span class="cat_label New">New</span></a></li>
+                                                            <li class="nav"><a href="#">sacs création sur mesure </a></li>
+                                                            <li class="nav"><a href="#">sacs
+                                                                    conférences </a></li>
                                                         </ul>
                                                     </li>
                                                     <li>
-                                                        <a href="#">Men’s Shoe </a>
-                                                        <img class="img-responsive" alt="images" src="assets/images/supv1_02.jpg">
+                                                        <a href="#">Maroquinerie </a>
                                                         <ul>
-                                                            <li class="nav "><a href="#">Books </a></li>
-                                                            <li class="nav "><a href="#">Sports </a></li>
-                                                            <li class="nav "><a href="#">Run </a></li>
-                                                            <li class="nav "><a href="#">Sandals </a></li>
-                                                            <li class="nav "><a href="#">T-Shirts <span class="cat_label Hot">Hot</span></a></li>
+                                                            <li class="nav"><a href="#">Cartables </a></li>
+                                                            <li class="nav"><a href="#">sac à dos</a></li>
+                                                            <li class="nav"><a href="#">sac de sport </a></li>
+                                                            <li class="nav"><a href="#">portefeuille <span class="cat_label Hot">Hot</span></a></li>
+                                                            <li class="nav"><a href="#">porte carte de crédit </a></li>
                                                         </ul>
                                                     </li>
                                                     <li>
-                                                        <a href="#">Skirts </a>
-                                                        <img class="img-responsive" alt="images" src="assets/images/supv1_03.jpg">
+                                                        <a href="#">Cadeaux d’entreprises </a>
                                                         <ul>
-                                                            <li class="nav "><a href="#">Sassuawear </a></li>
-                                                            <li class="nav "><a href="#">Leather </a></li>
-                                                            <li class="nav "><a href="#">Bag & Persess </a></li>
-                                                            <li class="nav "><a href="#">Sunglasses </a></li>
-                                                            <li class="nav "><a href="#">Sweaters </a></li>
+                                                            <li class="nav"><a href="#">Coffrets artisanales </a></li>
+                                                            <li class="nav"><a href="#">Coffrets maroquinerie <span class="cat_label Hot">Hot</span></a></li>
+                                                            <li class="nav"><a href="#">Coffrets d’articles de bureau </a></li>
+                                                            <li class="nav"><a href="#">Coffrets Vip </a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Gifts publicitaires </a>
+                                                        <ul>
+                                                            <li class="nav"><a href="#">stylos </a></li>
+                                                            <li class="nav"><a href="#">portes clés </a></li>
+                                                            <li class="nav"><a href="#">clés USB <span class="cat_label Hot">Hot</span></a></li>
+                                                            <li class="nav"><a href="#">clés USB </a></li>
+                                                            <li class="nav"><a href="#">power bank </a></li>
+                                                            <li class="nav"><a href="#">mugs </a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Textile </a>
+                                                        <ul>
+                                                            <li class="nav"><a href="#">Tee-shirt</a></li>
+                                                            <li class="nav"><a href="#">polos </a></li>
+                                                            <li class="nav"><a href="#">casquettes</a></li>
+                                                            <li class="nav"><a href="#">tenues de travail</a></li>
+                                                            <li class="nav"><a href="#">tenues de tournois </a></li>
+                                                            <li class="nav"><a href="#">T-Shirts </a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>

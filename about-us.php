@@ -47,13 +47,13 @@
                     <div class="col-md-6">
                         <div class="content-text">
                             <h2>Apprenez à mieux nous connaitre</h2>
-                            <p>DEBOSACS est une boutique en ligne de Maroquineries et Accessoires de Mode Tendance
-                                et à Prix Exceptionnel...</p>
+                            <p>Avec Debosacs vous allez concevoir le sac de vos rêves. Ses éditions limitées, aux formes, matières et couleurs
+                                très différentes se succèdent et viennent enrichir les collections de la marque.</p>
+                            <p>DEBOSACS est une équipe dynamique de conception de Maroquineries et Accessoires et dans le packaging et emballage des produits </p>
                             <p>Notre société a été créé en 2009 par Déborah ,spécialisée dans le packaging depuis une bonne
                                 15 d’années à su au fur et mesure de rencontres professionnelles se développer en
                                 diversifiant son produit ( à la demande des clients.)</p>
-                            <p>Avec Debosacs vous allez concevoir le sac de vos rêves. Ses éditions limitées, aux formes, matières et couleurs
-                                très différentes se succèdent et viennent enrichir les collections de la marque.</p>
+
                             <!--<a href="#" class="read-more-btn">Read more</a>-->
                         </div>
                     </div>
@@ -62,6 +62,8 @@
                             <ul class="about-bx-slider">
                                 <li><img src="assets/images/slide-about-1.png" alt=""><span class="title">Notre local</span></li>
                                 <li><img src="assets/images/slide-about-2.png" alt=""><span class="title">Atelier</span></li>
+                                <li><img src="assets/images/slide-about-3.png" alt=""><span class="title">Notre local</span></li>
+                                <li><img src="assets/images/slide-about-4.png" alt=""><span class="title">Atelier</span></li>
                             </ul>
                         </div>
                     </div>

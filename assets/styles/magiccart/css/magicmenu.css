@@ -147,8 +147,8 @@
 .template-default .mean-nav .wrapper{width:100%;padding:0;margin:0}
 .template-default .mean-container .mean-bar,.template-default .mean-container .mean-bar *{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}
 .template-default .mean-remove{display:none!important}
-.template-default .header-container{position: relative;background-color: #F0F1F3;height: 80px;}
-.template-default .cms-index-index .header-container{background-color: #F0F1F3;border-bottom: 1px solid #D9DADC;}
+.template-default .header-container{position: relative;height: 80px;}
+.template-default .cms-index-index .header-container{border-bottom: 1px solid #D9DADC;}
 @media (max-width: 1399px){
    .template-default .header .magicmenu .nav-desktop .level0 .level-top{padding: 28px 20px;}
    .template-default .header .header-setting .icons, .template-default .header .miniCartWrap .icons{padding: 30px 20px}

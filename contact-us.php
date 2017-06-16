@@ -71,7 +71,7 @@
 					</script>
 					<ul class="row text-center">
 						<li class="col-md-4">
-							<div class="contact-list-item"><a href="tel:+84912345678"><i class="icon-call-in"></i><br><span class="text">+84 912 345 678</span></a></div>
+							<div class="contact-list-item"><a href="tel:212 663 787 874"><i class="icon-call-in"></i><br><span class="text">+212 663 787 874</span></a></div>
 						</li>
 						<li class="col-md-4">
 							<div class="contact-list-item"><i class="icon-pointer"></i><br><span class="text">16 Rue El Gara, 1er Etage, Appt N°1, Ain Sebaa - Aîn-Sebaâ (AR)</span></div>

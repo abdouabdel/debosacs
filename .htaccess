@@ -3,4 +3,10 @@ RewriteRule ^Accueil?$ index.php
 RewriteRule Qui-Sommes-Nous?$ about-us.php
 RewriteRule Contact?$ contact-us.php
 RewriteRule Portfolio?$ portfolio.php
+RewriteRule Packaging_sur_tout_support?$ produits/produits.php
+RewriteRule Coffrets?$ produits/single/single_product.php
+RewriteRule Cadeaux_entreprise?$ produits/cadeaux.php
+RewriteRule Gifts_publicitaires?$ produits/gifts.php
+RewriteRule Textile?$ produits/textile.php
+RewriteRule Maroquinerie_petite_maroquinerie?$ produits/maroquinerie.php
 
