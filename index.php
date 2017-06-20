@@ -28,6 +28,44 @@
     </script>
 </head>
 <body>
+<div id="preloader">
+    <div id="status">&nbsp;</div>
+</div>
+<style>
+    body {
+        overflow: hidden;
+    }
+
+    #preloader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #fff;
+        z-index: 99;
+    }
+
+    #status {
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        background-image: url(https://raw.githubusercontent.com/niklausgerber/PreLoadMe/master/img/status.gif);
+        background-repeat: no-repeat;
+        background-position: center;
+        margin: -100px 0 0 -100px;
+    }
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script>
+    $(window).on('load', function() { // makes sure the whole site is loaded
+        $('#status').fadeOut(); // will first fade out the loading animation
+        $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+        $('body').delay(350).css({'overflow':'visible'});
+    })
+</script>
 <div class="wrapper">
 	<div class="page">
 		<?php include("includes/header.php") ?>
@@ -309,10 +347,13 @@
 															</div>
 														</div>
 													</li>
+
 													<li class="item">
 														<div class="postcontent">
 															<div class="blog-image image-container">
-																<a href="#" ><img  class="img-responsive" src="assets/images/05.png" alt="imgBlog"/></a>
+                                                                <video playsinline muted autoplay  loop  id="bgvid" style="width: 100%">
+                                                                    <source src="assets/3744368.mp4" type="video/mp4">
+                                                                </video>
 															</div>
 															<div class="blog_short_text clearfix">
 																<div class="icon-blog"> <i class="icon-control-play icons"></i></div>
